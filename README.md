@@ -1,21 +1,5 @@
-# order_pos
+## 闲得无聊,找部vue视频学习下:
+[ 课程来源 ]( https://jspang.com/post/vuedemo.html#toc-e35 )   <br/>
+技术点:  Vue+Webpack+Element+Axios+vueRouter
 
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+![image](https://github.com/pheromone/order_pos/blob/master/result.gif) <br/>
